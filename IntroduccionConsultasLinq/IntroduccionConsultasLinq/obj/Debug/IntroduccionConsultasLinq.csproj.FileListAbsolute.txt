@@ -1,0 +1,9 @@
+C:\Users\ariel\source\repos\IntroduccionConsultasLinq\IntroduccionConsultasLinq\obj\Debug\IntroduccionConsultasLinq.csprojAssemblyReference.cache
+C:\Users\ariel\source\repos\IntroduccionConsultasLinq\IntroduccionConsultasLinq\obj\Debug\IntroduccionConsultasLinq.csproj.CoreCompileInputs.cache
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA QUINCE\IntroduccionConsultasLinq\IntroduccionConsultasLinq\obj\Debug\IntroduccionConsultasLinq.csprojAssemblyReference.cache
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA QUINCE\IntroduccionConsultasLinq\IntroduccionConsultasLinq\obj\Debug\IntroduccionConsultasLinq.csproj.CoreCompileInputs.cache
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA QUINCE\IntroduccionConsultasLinq\IntroduccionConsultasLinq\bin\Debug\IntroduccionConsultasLinq.exe.config
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA QUINCE\IntroduccionConsultasLinq\IntroduccionConsultasLinq\bin\Debug\IntroduccionConsultasLinq.exe
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA QUINCE\IntroduccionConsultasLinq\IntroduccionConsultasLinq\bin\Debug\IntroduccionConsultasLinq.pdb
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA QUINCE\IntroduccionConsultasLinq\IntroduccionConsultasLinq\obj\Debug\IntroduccionConsultasLinq.exe
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA QUINCE\IntroduccionConsultasLinq\IntroduccionConsultasLinq\obj\Debug\IntroduccionConsultasLinq.pdb

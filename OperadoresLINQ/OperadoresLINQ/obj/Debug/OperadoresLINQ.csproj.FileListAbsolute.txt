@@ -1,0 +1,7 @@
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA QUINCE\OperadoresLINQ\OperadoresLINQ\obj\Debug\OperadoresLINQ.csprojAssemblyReference.cache
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA QUINCE\OperadoresLINQ\OperadoresLINQ\obj\Debug\OperadoresLINQ.csproj.CoreCompileInputs.cache
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA QUINCE\OperadoresLINQ\OperadoresLINQ\bin\Debug\OperadoresLINQ.exe.config
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA QUINCE\OperadoresLINQ\OperadoresLINQ\bin\Debug\OperadoresLINQ.exe
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA QUINCE\OperadoresLINQ\OperadoresLINQ\bin\Debug\OperadoresLINQ.pdb
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA QUINCE\OperadoresLINQ\OperadoresLINQ\obj\Debug\OperadoresLINQ.exe
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA QUINCE\OperadoresLINQ\OperadoresLINQ\obj\Debug\OperadoresLINQ.pdb

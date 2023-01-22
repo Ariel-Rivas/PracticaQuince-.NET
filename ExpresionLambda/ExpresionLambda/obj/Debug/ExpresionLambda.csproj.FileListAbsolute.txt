@@ -1,0 +1,2 @@
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA QUINCE\ExpresionLambda\ExpresionLambda\obj\Debug\ExpresionLambda.csprojAssemblyReference.cache
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA QUINCE\ExpresionLambda\ExpresionLambda\obj\Debug\ExpresionLambda.csproj.CoreCompileInputs.cache
